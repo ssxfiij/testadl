@@ -1,0 +1,76 @@
+body{
+ background-color: #e09cf5;
+}
+.color-background-uno{
+
+    background-color:#e09cf5;
+    
+    }
+    
+    .color-background-education{
+    
+        background-color:#ae55c9;
+    }
+    
+    .color-background-experience{
+    
+        background-color: #ae55c9;
+    }
+    
+    .color-background-portfolio{
+    
+        background-color: #ae55c9;
+    }
+    
+    
+    
+    .foto-cv{
+        border-radius: 60%;
+      
+        
+    }
+      
+      .container img {
+        width: auto;
+        height: 400px;
+      }
+    
+    .container {
+      display: flex;
+      justify-content: center;
+    }
+    
+    .text {
+      text-align: center;
+      font-size: 60px;
+      font-weight: 700;
+    }
+    
+    .text-small{
+    
+        text-align: center;
+        font-size: 30px;
+        font-weight: 200; 
+    }
+    
+    .card {
+        margin: 0 auto;
+        border: double;
+        margin-top: 30px;
+      }
+      
+    .footer {
+        height: 100px;
+        background-color:#ae55c9;
+      
+    
+        letter-spacing: 2px;
+        word-spacing: 2px;
+        font-weight: 400;
+        text-decoration: none solid rgb(68, 68, 68);
+        font-style: italic;
+      
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
